@@ -7,5 +7,6 @@ websites = ("google.com","yahoo.com","ask.com","bing.com")
 
 # Create a list from tuple using list comphrehension
 site_list = [ site for site in websites ]
+site_list.sort()
 print(site_list)
 
