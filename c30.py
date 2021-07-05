@@ -8,4 +8,3 @@ selectedList =  filter(SelectedPerson, participant)
 print('The selected candidates are:')
 for candidate in selectedList:
     print(candidate)
-
