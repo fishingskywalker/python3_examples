@@ -1,5 +1,5 @@
 # Assign the filename
-filename = "languages.txt."
+filename = "languages.txt"
 # Open file for writing
 fileHandler = open(filename, "w")
 
