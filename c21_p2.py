@@ -1,6 +1,8 @@
 
 # define the string
 string = 'There is something in my root beer.'
+
+# here i am going to define a separator and print text and the string
 print("The phrase is:",string,sep='\n')
 
 # define the search string
